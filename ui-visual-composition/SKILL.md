@@ -1,6 +1,6 @@
 ---
 name: ui-visual-composition
-description: Use this skill when creating, critiquing, or refining polished visual UI for digital products, including hierarchy, spacing, typography, color, depth, imagery, accessibility, visual states, and frontend-aware implementation details. Use it to turn product intent and content into a clear, attractive, usable interface rather than merely decorating screens.
+description: "Use this skill when creating, critiquing, or refining polished visual UI for digital products, including hierarchy, spacing, typography, color, depth, imagery, accessibility, visual states, and frontend-aware implementation details. Use it to turn product intent and content into a clear, attractive, usable interface rather than merely decorating screens."
 ---
 
 # UI Visual Composition

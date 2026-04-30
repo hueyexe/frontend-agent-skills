@@ -1,6 +1,6 @@
 ---
 name: design-systems-frontend-architecture
-description: Use this skill when turning UX/UI decisions into scalable frontend systems: design tokens, component contracts, responsive layouts, semantic markup, CSS strategy, documentation, governance, critique, redesign, or maintainable implementation guidance. Use it to move from isolated screens to reusable, accessible, documented frontend systems.
+description: "Use this skill when turning UX/UI decisions into scalable frontend systems -- design tokens, component contracts, responsive layouts, semantic markup, CSS strategy, documentation, governance, critique, redesign, or maintainable implementation guidance. Use it to move from isolated screens to reusable, accessible, documented frontend systems."
 ---
 
 # Design Systems Frontend Architecture

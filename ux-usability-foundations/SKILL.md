@@ -1,6 +1,6 @@
 ---
 name: ux-usability-foundations
-description: Use this skill when designing, critiquing, or improving an interface so users can understand what is possible, know where they are, choose a clear next action, complete tasks with low cognitive load, recover from mistakes, and trust system feedback. Covers usability principles, affordances/signifiers, feedback, constraints, error prevention and recovery, recognition over recall, obvious labels, navigation clarity, task flow, accessibility basics, and frontend behavior. Do not use it for deep research operations, brand styling systems, or purely visual polish unless those choices affect usability.
+description: "Use this skill when designing, critiquing, or improving an interface so users can understand what is possible, know where they are, choose a clear next action, complete tasks with low cognitive load, recover from mistakes, and trust system feedback. Covers usability principles, affordances/signifiers, feedback, constraints, error prevention and recovery, recognition over recall, obvious labels, navigation clarity, task flow, accessibility basics, and frontend behavior. Do not use it for deep research operations, brand styling systems, or purely visual polish unless those choices affect usability."
 ---
 
 # UX Usability Foundations

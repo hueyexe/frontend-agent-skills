@@ -1,6 +1,6 @@
 ---
 name: information-architecture-navigation
-description: Use this skill when organizing, critiquing, or implementing information architecture for a digital product: navigation, labels, taxonomy, hierarchy, search, metadata, content grouping, findability, and wayfinding. Use it for UI/UX/frontend/design-system work where users must find, compare, understand, or act on structured information.
+description: "Use this skill when organizing, critiquing, or implementing information architecture for a digital product -- navigation, labels, taxonomy, hierarchy, search, metadata, content grouping, findability, and wayfinding. Use it for UI/UX/frontend/design-system work where users must find, compare, understand, or act on structured information."
 ---
 
 # Information Architecture Navigation

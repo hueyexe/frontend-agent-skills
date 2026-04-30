@@ -1,6 +1,6 @@
 ---
 name: forms-inputs-checkout
-description: Use this skill when designing, critiquing, or implementing forms, inputs, validation, errors, submission states, field grouping, progressive disclosure, checkout, registration, payment, onboarding, and data-entry flows. Use it to reduce friction, improve accessibility, preserve trust, and help people complete form-based tasks quickly and confidently.
+description: "Use this skill when designing, critiquing, or implementing forms, inputs, validation, errors, submission states, field grouping, progressive disclosure, checkout, registration, payment, onboarding, and data-entry flows. Use it to reduce friction, improve accessibility, preserve trust, and help people complete form-based tasks quickly and confidently."
 ---
 
 # Forms, Inputs, and Checkout

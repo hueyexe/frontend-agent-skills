@@ -1,6 +1,6 @@
 ---
 name: accessibility-inclusive-design
-description: Use this skill when designing, critiquing, implementing, or revising UI/UX/frontend work for accessibility and inclusion. It helps an agent produce interfaces that are keyboard-friendly, screen-reader-aware, semantically structured, readable, resilient across devices and user settings, tolerant of diverse abilities, and aligned with inclusive defaults rather than bolt-on accommodation.
+description: "Use this skill when designing, critiquing, implementing, or revising UI/UX/frontend work for accessibility and inclusion. It helps an agent produce interfaces that are keyboard-friendly, screen-reader-aware, semantically structured, readable, resilient across devices and user settings, tolerant of diverse abilities, and aligned with inclusive defaults rather than bolt-on accommodation."
 ---
 
 # Accessibility Inclusive Design

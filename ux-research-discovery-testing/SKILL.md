@@ -1,6 +1,6 @@
 ---
 name: ux-research-discovery-testing
-description: Use this skill to plan lightweight UX research, discovery interviews, usability tests, synthesis, and evidence-backed product recommendations for UI, UX, frontend, design-system, redesign, critique, and product decision work.
+description: "Use this skill to plan lightweight UX research, discovery interviews, usability tests, synthesis, and evidence-backed product recommendations for UI, UX, frontend, design-system, redesign, critique, and product decision work."
 ---
 
 # UX Research Discovery Testing
