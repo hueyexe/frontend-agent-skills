@@ -1,6 +1,6 @@
 ---
 name: ux-writing-content-design
-description: "Use this skill when writing, critiquing, redesigning, or implementing product UX copy -- microcopy, labels, CTAs, empty states, onboarding, errors, success messages, notifications, voice, tone, and content strategy. Use it to make product interfaces clearer, more trustworthy, more actionable, and easier to recover from."
+description: "Use when writing, critiquing, or implementing product UX copy, microcopy, labels, CTAs, empty states, onboarding, errors, or notifications."
 ---
 
 # UX Writing & Content Design

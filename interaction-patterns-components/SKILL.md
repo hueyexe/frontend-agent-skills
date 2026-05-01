@@ -1,6 +1,6 @@
 ---
 name: interaction-patterns-components
-description: "Use this skill when choosing, critiquing, or designing UI interaction patterns and reusable product components for web, mobile, SaaS, productivity, dashboard, form, navigation, content, or design-system work. It helps an agent select patterns, define component behavior, evaluate flows and states, ask only necessary context questions, and produce frontend-aware recommendations grounded in interaction clarity rather than visual polish alone."
+description: "Use when choosing, critiquing, or designing UI interaction patterns and reusable components for web, mobile, SaaS, dashboards, or design systems."
 ---
 
 # Interaction Patterns Components
