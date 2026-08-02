@@ -1,4 +1,4 @@
-# UX Writing & Content Design Checklists
+# Checklists — UX Writing & Content Design
 
 ## Discovery/context checklist
 

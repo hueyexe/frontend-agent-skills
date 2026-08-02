@@ -1,4 +1,4 @@
-# Checklists
+# Checklists — UX Research Discovery Testing
 
 Use these checklists before finalizing a research plan, interview guide, usability test, UX critique, or recommendation.
 

@@ -1,4 +1,4 @@
-# Checklists for `information-architecture-navigation`
+# Checklists — Information Architecture Navigation
 
 ## Discovery / context checklist
 

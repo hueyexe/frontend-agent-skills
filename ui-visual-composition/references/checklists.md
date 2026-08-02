@@ -1,4 +1,4 @@
-# Checklists for `ui-visual-composition`
+# Checklists — UI Visual Composition
 
 Use these checklists before finalizing critiques, recommendations, or frontend UI output. Each item should be testable from the design, code, or written recommendation.
 

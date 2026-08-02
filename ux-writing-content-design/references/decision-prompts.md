@@ -1,4 +1,4 @@
-# Decision Prompts for `ux-writing-content-design`
+# Decision Prompts — UX Writing & Content Design
 
 Use these prompts only when the answer changes the copy, pattern, tone, accessibility behavior, or implementation. Do not ask routine best-practice questions.
 

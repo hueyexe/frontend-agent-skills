@@ -1,4 +1,4 @@
-# Anti-patterns for `forms-inputs-checkout`
+# Anti-patterns — Forms, Inputs, and Checkout
 
 Prioritize these because an AI agent may accidentally produce them when generating forms, checkout flows, or frontend components.
 

@@ -1,6 +1,9 @@
 ---
 name: interaction-patterns-components
 description: "Use when choosing, critiquing, or designing UI interaction patterns and reusable components for web, mobile, SaaS, dashboards, or design systems."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # Interaction Patterns Components
@@ -93,6 +96,8 @@ Do not create one-off components unless the context demands it. Define component
 
 Default: start from the existing design system or common UI framework, then extend intentionally. Treat libraries as a floor, not a ceiling.
 
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
+
 ## Default recommendations
 
 Use these defaults unless the user’s context justifies an override.
@@ -148,6 +153,8 @@ question({
   ]
 })
 ```
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md) for the full decision set.
 
 ## Workflow
 
@@ -430,6 +437,8 @@ Before finalizing a recommendation, verify:
 - The recommendation can be implemented with reusable components and tokens.
 - Tradeoffs and alternatives are explained.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Designing from component preference instead of user task.
@@ -446,6 +455,8 @@ Before finalizing a recommendation, verify:
 - Forgetting keyboard and focus behavior.
 - Creating one-off components that bypass the design system.
 - Optimizing for novelty at the expense of familiar interaction.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 
 ## How to explain recommendations to the user
 

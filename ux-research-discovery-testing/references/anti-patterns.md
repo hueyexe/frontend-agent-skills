@@ -1,4 +1,4 @@
-# Anti-patterns
+# Anti-patterns — UX Research Discovery Testing
 
 Prioritize these because AI agents commonly produce them when asked for UX, UI, frontend, or research help.
 

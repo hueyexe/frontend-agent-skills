@@ -1,4 +1,4 @@
-# Checklists
+# Checklists — Interaction Patterns Components
 
 Use these before finalizing critique, redesign, pattern selection, or frontend guidance.
 

@@ -1,6 +1,9 @@
 ---
 name: ux-usability-foundations
 description: "Use when designing, critiquing, or improving an interface for usability, including affordances, feedback, constraints, error prevention, navigation clarity, or task flow."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # UX Usability Foundations
@@ -31,6 +34,8 @@ Do not use as the primary skill for deep research operations, brand styling syst
 10. **Blame the design, not the user.** Errors reveal a mismatch in expectations or an unsupported edge case. Preserve work and guide recovery.
 11. **Respect platform and convention.** Use familiar patterns when they fit. Break convention only when the user’s goal clearly benefits and the new behavior can be discovered and recovered from.
 12. **Accessibility is usability under pressure.** Design for perceptibility, operability, simplicity, and forgiveness across varied abilities, devices, literacy, stress, and environments.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -93,6 +98,8 @@ question({
   ]
 })
 ```
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md) for the full decision set.
 
 ## Workflow for critiquing an existing UI
 
@@ -248,6 +255,8 @@ Ask yourself:
 - Accessibility fundamentals are included.
 - Frontend behavior is implementable.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Starting with app chrome before the task.
@@ -264,6 +273,8 @@ Ask yourself:
 - Designing custom controls without keyboard and assistive-tech behavior.
 - Treating accessibility as a final audit.
 - Confusing visual simplicity with reduced task complexity.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 - Ignoring empty, loading, offline, validation, permission, and edge states.
 
 ## How to explain recommendations to the user

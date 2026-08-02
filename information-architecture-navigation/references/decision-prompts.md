@@ -1,4 +1,4 @@
-# Decision Prompts for `information-architecture-navigation`
+# Decision Prompts — Information Architecture Navigation
 
 Use these prompts only when the answer changes the IA. Do not ask users to decide routine usability requirements.
 

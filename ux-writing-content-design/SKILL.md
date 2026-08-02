@@ -1,6 +1,9 @@
 ---
 name: ux-writing-content-design
 description: "Use when writing, critiquing, or implementing product UX copy, microcopy, labels, CTAs, empty states, onboarding, errors, or notifications."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # UX Writing & Content Design
@@ -43,6 +46,8 @@ Do not use this skill as the primary skill for:
 10. **Be concise, not cryptic.** Short copy is valuable only when users can still understand it immediately.
 11. **Measure when the stakes justify it.** Use usability testing, behavioral metrics, support data, and A/B tests when copy changes affect activation, conversion, retention, recovery, or trust.
 12. **Make copy implementable.** Content should work with semantic HTML, accessibility APIs, localization, design tokens, component states, and design-system patterns.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -101,6 +106,8 @@ question({
   ]
 })
 ```
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md) for the full decision set.
 
 ## Workflow
 
@@ -357,6 +364,8 @@ Before finalizing UX copy, verify:
 - High-impact copy has a validation or measurement plan.
 - Recommendations include frontend notes when implementation matters.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Treating UX writing as wordsmithing after the UI is done.
@@ -372,6 +381,8 @@ Before finalizing UX copy, verify:
 - Creating empty states that are dead ends.
 - Sending notifications that do not help the user act.
 - Writing strings that cannot be localized or announced by assistive technology.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 - Delivering copy without states, constraints, or implementation context.
 
 ## How to explain recommendations to the user

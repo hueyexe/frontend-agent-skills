@@ -1,4 +1,4 @@
-# Principle Cards for `ux-writing-content-design`
+# Principle Cards — UX Writing & Content Design
 
 ## Principle: Words are design material
 

@@ -1,4 +1,4 @@
-# Decision Prompts
+# Decision Prompts — Interaction Patterns Components
 
 Use these prompts only when the missing information materially changes the recommendation. Do not ask users to approve routine best practices.
 

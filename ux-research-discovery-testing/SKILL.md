@@ -1,6 +1,9 @@
 ---
 name: ux-research-discovery-testing
 description: "Use when planning UX research, discovery interviews, usability tests, synthesis, or evidence-backed product recommendations."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # UX Research Discovery Testing
@@ -57,6 +60,8 @@ Do not use this skill as the primary tool when the task is only:
 11. **Protect participants.** Explain the purpose, consent, recording, confidentiality, incentives, and use of findings. Separate consent from NDAs and incentives. Respect participant time and welfare.
 
 12. **Recommend action, not just findings.** Findings should lead to prioritized decisions, risks, next tests, and product changes.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -161,6 +166,8 @@ question({
   ]
 })
 ```
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md) for the full decision set.
 
 ## Workflow
 
@@ -439,6 +446,8 @@ Before finalizing, verify:
 - Frontend implications are practical and accessible.
 - Limitations and confidence are stated.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Asking users what they want and treating the answer as a roadmap.
@@ -454,6 +463,8 @@ Before finalizing, verify:
 - Treating interviews as statistically representative.
 - Optimizing the current UI into a local maximum while ignoring larger opportunities.
 - Forgetting accessibility until after design or implementation.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 - Over-asking the user for context when a safe default is available.
 
 ## How to explain recommendations to the user

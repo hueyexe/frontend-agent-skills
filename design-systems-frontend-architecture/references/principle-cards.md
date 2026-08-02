@@ -1,4 +1,4 @@
-# Principle Cards
+# Principle Cards — Design Systems Frontend Architecture
 
 ## Principle: Scope components, not pages
 

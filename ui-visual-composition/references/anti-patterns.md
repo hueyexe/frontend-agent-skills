@@ -1,4 +1,4 @@
-# Anti-patterns for `ui-visual-composition`
+# Anti-patterns — UI Visual Composition
 
 Prioritize the anti-patterns an AI agent is most likely to produce accidentally: decoration before structure, arbitrary values, inaccessible color, generic cards, and happy-path-only polish.
 

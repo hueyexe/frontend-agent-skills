@@ -1,6 +1,9 @@
 ---
 name: ui-visual-composition
 description: "Use when creating, critiquing, or refining visual UI, including hierarchy, spacing, typography, color, depth, imagery, or visual states."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # UI Visual Composition
@@ -37,6 +40,8 @@ Do not use it to justify arbitrary decoration. If a visual suggestion does not i
 10. **Simplify without hiding necessary complexity.** Reduce visible choices and chunk complex tasks, but do not abstract away information users need to decide or recover.
 11. **Design for resilient real content.** User-uploaded images, long labels, empty data, errors, loading, disabled states, and localization must not break the composition.
 12. **Explain tradeoffs in user-centered terms.** Recommendations should reference user goals, comprehension, accessibility, system consistency, and implementation feasibility.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -75,7 +80,7 @@ Ask a focused question only when the answer materially changes the visual soluti
 - The user requests novelty that could conflict with familiar mental models or platform conventions.
 - The user asks for frontend implementation and the target framework, design system, or CSS constraints matter.
 
-When asking, include a recommended default and options. Ask one question at a time unless the user explicitly requests a thorough discovery process.
+When asking, include a recommended default and options. Ask one question at a time unless the user explicitly requests a thorough discovery process. Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md) for the full decision set.
 
 ## Workflow: critique existing UI
 
@@ -230,6 +235,8 @@ Before finalizing a critique, recommendation, or UI implementation, verify:
 - The design handles long content, dense data, UGC, localization, and narrow screens.
 - Recommendations are prioritized and explained in terms of user value.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Designing the navigation shell before designing the feature.
@@ -243,6 +250,8 @@ Before finalizing a critique, recommendation, or UI implementation, verify:
 - Violating familiar mental models without a strong user or brand reason.
 - Ignoring edge states because the static happy path looks polished.
 - Generating frontend code that looks right but is inaccessible or semantically wrong.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 
 ## How to explain recommendations to the user
 

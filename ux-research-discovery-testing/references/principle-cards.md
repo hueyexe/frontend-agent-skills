@@ -1,4 +1,4 @@
-# Principle Cards
+# Principle Cards — UX Research Discovery Testing
 
 These cards consolidate the reusable lessons from the uploaded sources into agent behavior.
 

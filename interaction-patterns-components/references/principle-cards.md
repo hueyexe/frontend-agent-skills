@@ -1,4 +1,4 @@
-# Principle Cards
+# Principle Cards — Interaction Patterns Components
 
 These cards convert lessons into reusable agent behavior.
 

@@ -1,4 +1,4 @@
-# Decision Prompts for `ui-visual-composition`
+# Decision Prompts — UI Visual Composition
 
 Use these prompts only when the decision materially changes the design. Do not ask users to confirm routine best practices such as readable text, sufficient contrast, visible focus, or clear hierarchy.
 

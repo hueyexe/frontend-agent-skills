@@ -1,4 +1,4 @@
-# Anti-patterns
+# Anti-patterns — Interaction Patterns Components
 
 Prioritize these because AI agents commonly produce them when designing UI quickly.
 

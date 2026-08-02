@@ -1,4 +1,4 @@
-# Principle Cards for `information-architecture-navigation`
+# Principle Cards — Information Architecture Navigation
 
 ## Principle: Findability and understanding are inseparable
 

@@ -1,6 +1,9 @@
 ---
 name: information-architecture-navigation
 description: "Use when organizing, critiquing, or implementing navigation, labels, taxonomy, hierarchy, search, content grouping, or wayfinding for a digital product."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # Information Architecture Navigation
@@ -40,6 +43,8 @@ Do not use this skill as the main skill when the user is only asking for:
 8. **Structure content from the bottom up.** Headings, chunks, metadata, related links, and content templates should help users who enter deep from search, notifications, external links, or social sharing.
 9. **Document decisions for reuse.** IA must be maintained. Capture label rules, taxonomy rules, metadata fields, navigation placement rules, and exceptions in a style guide or design-system guidance.
 10. **Accessibility is part of findability.** Semantic structure, headings, landmarks, keyboard operation, visible focus, readable labels, and screen-reader names are IA requirements, not polish.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -155,6 +160,8 @@ Use a `question` tool or equivalent for these cases:
 8. **Legacy constraints.** If migration, existing URLs, analytics, SEO, or design-system compatibility may constrain the structure.
 
 Do not ask routine questions such as whether labels should be clear, whether the design should be accessible, or whether users should understand navigation. Apply the default.
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md).
 
 ## Workflow
 
@@ -323,6 +330,8 @@ Before finalizing an IA recommendation, verify:
 - Frontend state, URLs, responsive behavior, and design-system reuse are addressed.
 - Maintenance responsibilities are explicit.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Designing a sitemap before understanding user tasks and content types.
@@ -337,6 +346,8 @@ Before finalizing an IA recommendation, verify:
 - Failing to design no-results and empty states.
 - Forgetting redirects, aliases, and deprecated terms during migrations.
 - Ignoring bottom-up IA inside content templates.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 - Creating a taxonomy without governance.
 
 ## How to explain recommendations to the user

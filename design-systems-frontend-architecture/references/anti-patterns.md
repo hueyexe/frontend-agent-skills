@@ -1,4 +1,4 @@
-# Anti-patterns
+# Anti-patterns — Design Systems Frontend Architecture
 
 Prioritize these because AI agents commonly produce them when generating UI, CSS, design-system guidance, or frontend architecture plans.
 

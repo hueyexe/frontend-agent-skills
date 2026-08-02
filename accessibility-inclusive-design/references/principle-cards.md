@@ -1,4 +1,4 @@
-# Principle Cards — accessibility-inclusive-design
+# Principle Cards — Accessibility Inclusive Design
 
 These cards convert the source extraction into reusable rules for an AI agent. Use them when critiquing, generating, or implementing UI/UX/frontend work.
 

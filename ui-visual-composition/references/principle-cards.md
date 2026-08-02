@@ -1,4 +1,4 @@
-# Principle Cards for `ui-visual-composition`
+# Principle Cards — UI Visual Composition
 
 These cards convert the uploaded source lessons into reusable agent behavior. Page references use the visible/book page numbers where available; PDF page counts may differ.
 

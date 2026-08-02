@@ -1,4 +1,4 @@
-# Decision Prompts
+# Decision Prompts — Design Systems Frontend Architecture
 
 Use these prompts only when the answer changes the recommendation. Do not ask routine best-practice questions such as whether text should be readable, buttons should be accessible, or CSS should be maintainable. Apply those defaults automatically.
 

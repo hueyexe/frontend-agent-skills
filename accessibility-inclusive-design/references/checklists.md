@@ -1,4 +1,4 @@
-# Checklists — accessibility-inclusive-design
+# Checklists — Accessibility Inclusive Design
 
 Use these checklists before finalizing critique, recommendations, component specs, or frontend implementation guidance.
 

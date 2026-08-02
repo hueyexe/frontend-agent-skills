@@ -1,4 +1,4 @@
-# Decision Prompts — accessibility-inclusive-design
+# Decision Prompts — Accessibility Inclusive Design
 
 Use these prompts only when product context genuinely changes the recommendation. Do not ask users to confirm routine accessibility best practices such as “Should inputs have labels?” or “Should focus be visible?” Apply those defaults automatically.
 

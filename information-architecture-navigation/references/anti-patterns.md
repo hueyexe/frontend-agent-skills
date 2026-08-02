@@ -1,4 +1,4 @@
-# Anti-patterns for `information-architecture-navigation`
+# Anti-patterns — Information Architecture Navigation
 
 ## Anti-pattern: Org-chart navigation
 

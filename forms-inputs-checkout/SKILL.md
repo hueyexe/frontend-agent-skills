@@ -1,6 +1,9 @@
 ---
 name: forms-inputs-checkout
 description: "Use when designing, critiquing, or implementing forms, inputs, validation, checkout, registration, payment, or any data-entry flow."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # Forms, Inputs, and Checkout
@@ -41,6 +44,8 @@ Do not use this skill for:
 8. **Do not use color alone.** Errors, success, required/optional status, disabled states, and payment/security cues need text and/or shape in addition to color.
 9. **Keep checkout focused.** Remove distractions, avoid forced account creation, show costs and consequences clearly, and keep the primary action aligned with the buyer's goal.
 10. **Make progress honest.** Use progress indicators only when the sequence and scope are stable enough that the indicator will not mislead.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -155,7 +160,7 @@ Ask when any of the following are unknown and materially affect the work:
 - A tradeoff exists between one-page versus multi-page, speed versus careful review, visible options versus compact controls, or guest checkout versus account creation.
 - Existing analytics/research are needed to diagnose drop-off, error rates, or conversion problems.
 
-Use the prompts in `references/decision-prompts.md` for question-tool-ready patterns.
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md).
 
 ## Workflow for critiquing existing forms
 
@@ -349,6 +354,8 @@ Before finalizing a recommendation, verify:
 - Keyboard, focus, screen reader, color contrast, zoom, and mobile keyboards are covered.
 - The implementation is feasible within the design system and frontend stack.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Designing from database fields instead of the user's task.
@@ -364,6 +371,8 @@ Before finalizing a recommendation, verify:
 - Adding decorative grouping that interrupts scanning.
 - Showing all dependent fields at once and overwhelming the user.
 - Ending with a success page that offers no confirmation or next step.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 
 ## How to explain recommendations to the user
 

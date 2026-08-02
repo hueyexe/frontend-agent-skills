@@ -1,6 +1,9 @@
 ---
 name: design-systems-frontend-architecture
 description: "Use when building reusable frontend systems, design tokens, component contracts, responsive layouts, CSS strategy, or design-system documentation and governance."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # Design Systems Frontend Architecture
@@ -42,6 +45,8 @@ Do not use this skill as the primary lens when the task is mainly:
 8. **Treat accessibility as a component contract.** Semantics, keyboard behavior, focus, contrast, hit areas, error handling, and reduced-motion behavior must be specified with the pattern.
 9. **Choose frontend architecture early enough to prevent debt, but keep it adaptable.** Establish conventions before implementation spreads, then revise them intentionally as the product evolves.
 10. **Document for use, not archival.** Documentation must answer when to use a pattern, when not to use it, how it behaves, how it is implemented, and who owns it.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -105,6 +110,8 @@ Ask a focused question when any of these are unknown and relevant:
 - The user asks to override a default that would affect accessibility, implementation cost, brand consistency, or maintainability.
 
 When asking, include a recommended default and options. Use a `question` tool or equivalent pattern when available.
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md).
 
 ## Workflow: critique existing work
 
@@ -263,6 +270,8 @@ Before finalizing work, verify:
 - Governance explains how the system evolves without becoming bloated or stale.
 - Tradeoffs are explained in product, user, and implementation terms.
 
+Use the full checklists in [references/checklists.md](references/checklists.md).
+
 ## Common mistakes to avoid
 
 - Estimating or planning by page count instead of component/functionality complexity.
@@ -277,6 +286,8 @@ Before finalizing work, verify:
 - Using JavaScript for styling effects CSS can solve more simply.
 - Letting documentation drift away from code and design source files.
 - Asking the user about routine best practices instead of applying strong defaults.
+
+See [references/anti-patterns.md](references/anti-patterns.md) for the full anti-pattern list.
 
 ## How to explain recommendations to the user
 

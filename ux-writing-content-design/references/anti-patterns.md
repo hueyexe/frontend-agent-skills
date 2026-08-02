@@ -1,4 +1,4 @@
-# UX Writing & Content Design Anti-patterns
+# Anti-patterns — UX Writing & Content Design
 
 ## Anti-pattern: Wordsmithing after the design is finished
 

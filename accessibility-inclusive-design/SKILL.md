@@ -1,6 +1,9 @@
 ---
 name: accessibility-inclusive-design
 description: "Use when designing, critiquing, implementing, or revising UI/UX/frontend work for accessibility and inclusion."
+license: MIT
+metadata:
+  author: hueyexe
 ---
 
 # Accessibility Inclusive Design
@@ -42,6 +45,8 @@ Do not use this skill as the primary skill for:
 8. **Make hidden state explicit.** If something expands, loads, errors, becomes selected, or changes dynamically, communicate the state visually and programmatically.
 9. **Content is part of design.** Clear headings, descriptive links, plain language, usable labels, and helpful errors are accessibility features.
 10. **Test beyond automation.** Automated checks help, but keyboard walkthroughs, screen reader checks, device/browser testing, and disabled participant feedback uncover issues automation misses.
+
+See [references/principle-cards.md](references/principle-cards.md) for each principle as a reusable card.
 
 ## Default recommendations
 
@@ -88,6 +93,8 @@ Ask when:
    - Default: explicit user-triggered action with visible and programmatic feedback.
 6. **The user requests a legal/conformance claim.**
    - Default: provide design/implementation recommendations and recommend expert/legal validation.
+
+Use the question-tool-ready prompts in [references/decision-prompts.md](references/decision-prompts.md).
 
 ## Workflow
 
@@ -294,7 +301,7 @@ Before finalizing, verify:
 
 ## Quality checklist
 
-Use the detailed checklists in `references/checklists.md`. At minimum, before answering:
+Use the full checklists in [references/checklists.md](references/checklists.md). At minimum, before answering:
 
 - The recommendation starts from the user task.
 - Native semantics are preferred over custom controls.
@@ -308,7 +315,7 @@ Use the detailed checklists in `references/checklists.md`. At minimum, before an
 
 ## Common mistakes to avoid
 
-See `references/anti-patterns.md`. The highest-risk mistakes are:
+See the full anti-pattern list in [references/anti-patterns.md](references/anti-patterns.md). The highest-risk mistakes are:
 
 - Clickable `div` controls.
 - Placeholder-only labels.

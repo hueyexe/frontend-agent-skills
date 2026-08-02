@@ -1,4 +1,4 @@
-# Principle Cards for `forms-inputs-checkout`
+# Principle Cards — Forms, Inputs, and Checkout
 
 These cards convert the source extraction into reusable rules an agent can apply when designing, critiquing, or implementing forms and checkout flows.
 

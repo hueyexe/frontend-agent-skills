@@ -1,4 +1,4 @@
-# Checklists for `forms-inputs-checkout`
+# Checklists — Forms, Inputs, and Checkout
 
 Use these checklists before delivering a critique, redesign, implementation plan, or code for forms and checkout flows.
 

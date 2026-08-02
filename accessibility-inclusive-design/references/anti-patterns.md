@@ -1,4 +1,4 @@
-# Anti-patterns — accessibility-inclusive-design
+# Anti-patterns — Accessibility Inclusive Design
 
 Prioritize these when critiquing or generating UI. These are common mistakes an AI agent may accidentally produce.
 

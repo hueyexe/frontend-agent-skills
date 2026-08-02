@@ -1,4 +1,4 @@
-# Decision Prompts
+# Decision Prompts — UX Research Discovery Testing
 
 Use these prompts only when the missing context would materially change the research plan, critique, or recommendation. Do not ask the user to decide routine best practices.
 

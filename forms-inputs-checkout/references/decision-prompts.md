@@ -1,4 +1,4 @@
-# Decision Prompts for `forms-inputs-checkout`
+# Decision Prompts — Forms, Inputs, and Checkout
 
 Use these prompts only when the answer changes the design. Do not ask users to approve routine best practices such as readable labels, visible focus, or error messages.
 

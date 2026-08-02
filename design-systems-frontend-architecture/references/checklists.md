@@ -1,4 +1,4 @@
-# Checklists
+# Checklists — Design Systems Frontend Architecture
 
 Use these checklists before finalizing design-system, UI critique, frontend implementation, or documentation work.
 
